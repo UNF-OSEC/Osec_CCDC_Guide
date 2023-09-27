@@ -5,3 +5,4 @@
   * [Future Tools (project ideas)](intro/future-tools-project-ideas.md)
   * [Guidelines](intro/guidelines.md)
   * [Additions](intro/additions.md)
+  * [Intro](intro/intro.md)
