@@ -1,0 +1,5 @@
+https://github.com/cacopple/Windows-Hardening-CTF
+https://github.com/cacopple/Blue-Team-Tools
+https://github.com/cacopple/BlueTeam-Tools
+https://github.com/cacopple/System-Administration-Scripts-Linux
+https://github.com/cacopple/RedEye
